@@ -20,6 +20,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 
+[Git Workflows with Tim Pettersen](http://softwareengineeringdaily.com/2016/04/06/git-workflows-tim-pettersen/)(Podcast)
+
 ## Hacking
 
 [A Hacker's Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git/)
