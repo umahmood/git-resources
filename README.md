@@ -10,19 +10,29 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [Git Concepts Simplified](http://gitolite.com/gcs.html#(1))
 
+[Easy Git Guide and Reference for the Busy](http://sentheon.com/blog/easy-git-guide-and-reference-for-the-busy.html)
+
 [Ry’s Git Tutorial](http://rypress.com/tutorials/git/index)
 
 [Git Pull vs Git Fetch (and Stashing)](http://codeahoy.com/2016/04/18/10-git-pull-vs-git-fetch-(and-stashing))
-
-[Algo Tech Solutions - Git Tips and Tricks](https://www.algotech.solutions/blog/engineering/git-tips-tricks/)
 
 [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
 
 [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 
-[Git Workflows with Tim Pettersen](http://softwareengineeringdaily.com/2016/04/06/git-workflows-tim-pettersen/) (Podcast)
-
 [Git Mind Map](http://www.alexkras.com/git-mind-map/)
+
+## Tips and Tricks
+
+[Algo Tech Solutions - Git Tips and Tricks](https://www.algotech.solutions/blog/engineering/git-tips-tricks/)
+
+[Most commonly used git tips and tricks.](https://github.com/git-tips/tips)
+
+## Media
+
+[Deep Dive into Git - Edward Thomson](https://www.youtube.com/watch?v=dBSHLb1B8sw) (Video)
+
+[Git Workflows with Tim Pettersen](http://softwareengineeringdaily.com/2016/04/06/git-workflows-tim-pettersen/) (Podcast)
 
 ## Hacking
 
