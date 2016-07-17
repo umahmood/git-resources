@@ -22,6 +22,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [Git Mind Map](http://www.alexkras.com/git-mind-map/)
 
+[Learn Git Branching](http://learngitbranching.js.org/)
+
 ## Tips and Tricks
 
 [Algo Tech Solutions - Git Tips and Tricks](https://www.algotech.solutions/blog/engineering/git-tips-tricks/)
