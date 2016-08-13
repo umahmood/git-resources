@@ -30,6 +30,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [Most commonly used git tips and tricks.](https://github.com/git-tips/tips)
 
+[How to create custom git aliases for a project](http://www.pix-art.be/post/how-to-create-custom-git-aliases-for-a-project)
+
 ## Media
 
 [Deep Dive into Git - Edward Thomson](https://www.youtube.com/watch?v=dBSHLb1B8sw) (Video)
