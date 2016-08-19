@@ -26,6 +26,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 ## Tips and Tricks
 
+[GitTips SCM Wiki (Kernel.org)](https://git.wiki.kernel.org/index.php/GitTips)
+
 [Algo Tech Solutions - Git Tips and Tricks](https://www.algotech.solutions/blog/engineering/git-tips-tricks/)
 
 [Most commonly used git tips and tricks.](https://github.com/git-tips/tips)
