@@ -42,6 +42,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [Git Workflows with Tim Pettersen](http://softwareengineeringdaily.com/2016/04/06/git-workflows-tim-pettersen/) (Podcast)
 
+[Git Tips](https://www.briefs.fm/git-tips) hosted by [@chrishunt](https://twitter.com/chrishunt) (Podcast)
+
 ## Hacking
 
 [A Hacker's Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git/)
