@@ -22,6 +22,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [Git Mind Map](http://www.alexkras.com/git-mind-map/)
 
+[Git Workflows with Tim Pettersen](http://softwareengineeringdaily.com/2016/04/06/git-workflows-tim-pettersen/) (Podcast)
+
 [Learn Git Branching](http://learngitbranching.js.org/)
 
 ## Tips and Tricks
@@ -36,14 +38,6 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [How to create custom git aliases for a project](http://www.pix-art.be/post/how-to-create-custom-git-aliases-for-a-project)
 
-## Media
-
-[Deep Dive into Git - Edward Thomson](https://www.youtube.com/watch?v=dBSHLb1B8sw) (Video)
-
-[Clara Bennett - Git: A Peek Under the Hood](https://www.youtube.com/watch?v=zZ2hG6PMjk8) (Video)
-
-[Git Workflows with Tim Pettersen](http://softwareengineeringdaily.com/2016/04/06/git-workflows-tim-pettersen/) (Podcast)
-
 [Git Tips](https://www.briefs.fm/git-tips) hosted by [@chrishunt](https://twitter.com/chrishunt) (Podcast)
 
 ## Hacking
@@ -57,6 +51,10 @@ Below are some links to resources on learning more about Git. A distributed vers
 [Git Guys](https://github.com/tiimgreen/github-cheat-sheet#git)
 
 [Exploring the .git Directory](https://medium.freecodecamp.com/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807#.953pebcja)
+
+[Deep Dive into Git - Edward Thomson](https://www.youtube.com/watch?v=dBSHLb1B8sw) (Video)
+
+[Clara Bennett - Git: A Peek Under the Hood](https://www.youtube.com/watch?v=zZ2hG6PMjk8) (Video)
 
 ## Cheat Sheets 
 
