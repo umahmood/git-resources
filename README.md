@@ -40,6 +40,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [Deep Dive into Git - Edward Thomson](https://www.youtube.com/watch?v=dBSHLb1B8sw) (Video)
 
+[Clara Bennett - Git: A Peek Under the Hood](https://www.youtube.com/watch?v=zZ2hG6PMjk8) (Video)
+
 [Git Workflows with Tim Pettersen](http://softwareengineeringdaily.com/2016/04/06/git-workflows-tim-pettersen/) (Podcast)
 
 [Git Tips](https://www.briefs.fm/git-tips) hosted by [@chrishunt](https://twitter.com/chrishunt) (Podcast)
