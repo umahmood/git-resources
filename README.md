@@ -26,6 +26,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [Learn Git Branching](http://learngitbranching.js.org/)
 
+[Git Stash](https://www.atlassian.com/git/tutorials/git-stash)
+
 ## Tips and Tricks
 
 [GitTips SCM Wiki (Kernel.org)](https://git.wiki.kernel.org/index.php/GitTips)
@@ -41,6 +43,10 @@ Below are some links to resources on learning more about Git. A distributed vers
 [Git Tips](https://www.briefs.fm/git-tips) hosted by [@chrishunt](https://twitter.com/chrishunt) (Podcast)
 
 [Oh shit, git!](http://ohshitgit.com/)
+
+[Ignoring files in git](https://www.atlassian.com/git/tutorials/gitignore/)
+
+[Adding more changes to your last commit](https://blog.codeminer42.com/git-basics-adding-more-changes-to-your-last-commit-1629344cb9a8?gi=555388bde5d4#.y9m38vig9)
 
 ## Hacking
 
