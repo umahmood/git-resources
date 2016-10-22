@@ -48,6 +48,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [Adding more changes to your last commit](https://blog.codeminer42.com/git-basics-adding-more-changes-to-your-last-commit-1629344cb9a8?gi=555388bde5d4#.y9m38vig9)
 
+[5 Git Fundamentals](https://hackernoon.com/5-git-fundamentals-ded819a34cfe)
+
 ## Hacking
 
 [A Hacker's Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git/)
