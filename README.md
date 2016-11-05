@@ -28,6 +28,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [Git Stash](https://www.atlassian.com/git/tutorials/git-stash)
 
+[giteveryday(7) Manual Page](https://www.kernel.org/pub/software/scm/git/docs/giteveryday.html)
+
 ## Tips and Tricks
 
 [GitTips SCM Wiki (Kernel.org)](https://git.wiki.kernel.org/index.php/GitTips)
