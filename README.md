@@ -30,6 +30,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [giteveryday(7) Manual Page](https://www.kernel.org/pub/software/scm/git/docs/giteveryday.html)
 
+[A beginner's guide to GIT BISECT - The process of elimination](http://www.metaltoad.com/blog/beginners-guide-git-bisect-process-elimination)
+
 ## Tips and Tricks
 
 [GitTips SCM Wiki (Kernel.org)](https://git.wiki.kernel.org/index.php/GitTips)
