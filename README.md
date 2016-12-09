@@ -6,6 +6,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [Set up Git](https://help.github.com/articles/set-up-git)
 
+[Git in Plain English](https://red-badger.com/blog/2016/11/29/gitgithub-in-plain-english)
+
 [Atlassian Git Basics](https://www.atlassian.com/git/tutorial/git-basics#!overview)
 
 [Git Concepts Simplified](http://gitolite.com/gcs.html#(1))
