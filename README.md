@@ -74,7 +74,7 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 ## Cheat Sheets 
 
-[Alex Kras - Git Cheat Sheet](http://www.alexkras.com/getting-started-with-git/)
+[Alex Kras - Git Cheat Sheet](https://gist.github.com/akras14/3d242d80af8388ebca60)
 
 [0xAX - git cheat sheets in your command line](https://github.com/0xAX/git-cheat)
 
