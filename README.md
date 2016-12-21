@@ -58,6 +58,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 ## Hacking
 
+[Poking Git](https://www.youtube.com/watch?v=uV7R7HcgjZ4) (Video)
+
 [A Hacker's Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git/)
 
 [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
