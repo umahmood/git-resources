@@ -36,6 +36,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 ## Tips and Tricks
 
+[Five Useful Git Tips](http://adit.io/posts/2013-08-16-five-useful-git-tips.html)
+
 [GitTips SCM Wiki (Kernel.org)](https://git.wiki.kernel.org/index.php/GitTips)
 
 [Git Ready - daily tips for the noob to the guru](http://gitready.com/)
