@@ -1,4 +1,4 @@
-# Git Resources
+    # Git Resources
 
 Below are some links to resources on learning more about Git. A distributed version control system, that is widely used for software development.
 
@@ -35,6 +35,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 [A beginner's guide to GIT BISECT - The process of elimination](http://www.metaltoad.com/blog/beginners-guide-git-bisect-process-elimination)
 
 ## Tips and Tricks
+
+[Private Git Repository on Any Computer](https://www.alexkras.com/private-git-repository-on-any-computer/)
 
 [Five Useful Git Tips](http://adit.io/posts/2013-08-16-five-useful-git-tips.html)
 
