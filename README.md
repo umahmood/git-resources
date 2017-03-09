@@ -1,4 +1,4 @@
-    # Git Resources
+# Git Resources
 
 Below are some links to resources on learning more about Git. A distributed version control system, that is widely used for software development.
 
