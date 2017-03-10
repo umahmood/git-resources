@@ -36,6 +36,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 ## Tips and Tricks
 
+[CIA Git Tips & Tricks](https://wikileaks.org/ciav7p1/cms/page_1179773.html)
+
 [Private Git Repository on Any Computer](https://www.alexkras.com/private-git-repository-on-any-computer/)
 
 [Five Useful Git Tips](http://adit.io/posts/2013-08-16-five-useful-git-tips.html)
