@@ -104,6 +104,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [Github](https://github.com) - A web-based Git repository hosting service.
 
+[Gitly](gitly.io) - A fast & powerful development service.
+
 [Gogs](https://gogs.io/) - Go Git Service, a painless self-hosted Git service.
 
 [GitLab](https://gitlab.com/) - Provides Git repository management, code reviews, issue tracking, activity feeds and wikis. GitLab itself is also free software.
