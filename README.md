@@ -38,6 +38,10 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [CIA Git Tips & Tricks](https://wikileaks.org/ciav7p1/cms/page_1179773.html)
 
+[Git Better! Learn Aliases, Settings, Tools, Background](https://medium.com/sitepoint/git-better-learn-aliases-settings-tools-background-bc5966b7fc5e#.6hyxcjfiy)
+
+[16 awesome git aliases that you will love](http://codersopinion.com/blog/16-awesome-git-aliases-that-you-will-love/)
+
 [Private Git Repository on Any Computer](https://www.alexkras.com/private-git-repository-on-any-computer/)
 
 [Five Useful Git Tips](http://adit.io/posts/2013-08-16-five-useful-git-tips.html)
