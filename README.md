@@ -34,6 +34,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [A beginner's guide to GIT BISECT - The process of elimination](http://www.metaltoad.com/blog/beginners-guide-git-bisect-process-elimination)
 
+[How Does Git Reset Work?](https://code.tutsplus.com/tutorials/how-does-git-reset-work--cms-28410)
+
 ## Tips and Tricks
 
 [CIA Git Tips & Tricks](https://wikileaks.org/ciav7p1/cms/page_1179773.html)
