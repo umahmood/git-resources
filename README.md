@@ -36,6 +36,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [How Does Git Reset Work?](https://code.tutsplus.com/tutorials/how-does-git-reset-work--cms-28410)
 
+[Git Courses by Envato Tuts+](https://code.tutsplus.com/categories/git/courses)
+
 ## Tips and Tricks
 
 [CIA Git Tips & Tricks](https://wikileaks.org/ciav7p1/cms/page_1179773.html)
