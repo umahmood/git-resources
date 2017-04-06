@@ -92,6 +92,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 ## Cheat Sheets 
 
+[Git Tips for Everyday Use](https://codeoldschool.blogspot.co.uk/2017/04/git-tips-for-everyday-use.html)
+
 [Alex Kras - Git Cheat Sheet](https://gist.github.com/akras14/3d242d80af8388ebca60)
 
 [0xAX - git cheat sheets in your command line](https://github.com/0xAX/git-cheat)
