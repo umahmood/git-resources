@@ -40,6 +40,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 ## Tips and Tricks
 
+[Two Ways to Share Git Hooks with Your Team](https://www.viget.com/articles/two-ways-to-share-git-hooks-with-your-team)
+
 [CIA Git Tips & Tricks](https://wikileaks.org/ciav7p1/cms/page_1179773.html)
 
 [Git Better! Learn Aliases, Settings, Tools, Background](https://medium.com/sitepoint/git-better-learn-aliases-settings-tools-background-bc5966b7fc5e#.6hyxcjfiy)
