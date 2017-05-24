@@ -40,6 +40,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 ## Tips and Tricks
 
+[Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)
+
 [Two Ways to Share Git Hooks with Your Team](https://www.viget.com/articles/two-ways-to-share-git-hooks-with-your-team)
 
 [CIA Git Tips & Tricks](https://wikileaks.org/ciav7p1/cms/page_1179773.html)
