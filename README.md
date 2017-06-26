@@ -80,6 +80,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [TL;DR — pre-commit hooks can save you from embarrassment and improve workflow](https://gab41.lab41.org/tldr-pre-commit-hooks-can-save-you-from-embarrassment-and-improve-workflow-739730278b76#.e6z1wxwdg)
 
+[How to GitHooks?](https://techblog.sitegeist.de/how-to-githooks/)
+
 ## Hacking
 
 [Poking Git](https://www.youtube.com/watch?v=uV7R7HcgjZ4) (Video)
