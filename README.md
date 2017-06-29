@@ -10,6 +10,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [What is Git?](https://aht.github.io/whatisgit/#/cover)
 
+[A. B. C. of GIT - Version Control System](http://www.thesunflowerlab.com/2017/05/09/a-b-c-of-git-version-control-system/)
+
 [Atlassian Git Basics](https://www.atlassian.com/git/tutorials)
 
 [Git Concepts Simplified](http://gitolite.com/gcs.html#(1))
