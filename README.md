@@ -10,6 +10,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [What is Git?](https://aht.github.io/whatisgit/#/cover)
 
+[Git is always a great start](http://www.zeroequalsfalse.press/2017/02/18/beginning/)
+
 [A. B. C. of GIT - Version Control System](http://www.thesunflowerlab.com/2017/05/09/a-b-c-of-git-version-control-system/)
 
 [10 Reasons Why You Should Be Using Git In Software Projects](https://miguelgfierro.com/blog/2017/10-reasons-why-you-should-be-using-git-in-software-projects/)
