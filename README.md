@@ -138,6 +138,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [GitLab](https://gitlab.com/) - Provides Git repository management, code reviews, issue tracking, activity feeds and wikis. GitLab itself is also free software.
 
+[Gitea](https://gitea.io/en-US/) - Git with a cup of tea. A painless self-hosted Git service.
+
 [Bitbucket](https://bitbucket.org/) - A web-based hosting service for projects that use either the Mercurial or Git.
 
 ## Misc
