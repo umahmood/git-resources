@@ -88,6 +88,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [How to GitHooks?](https://techblog.sitegeist.de/how-to-githooks/)
 
+[Moving git commits between repos](http://jeremymikkola.com/posts/2017_07_15_move_commits_between_git_repos.html)
+
 ## Hacking
 
 [Poking Git](https://www.youtube.com/watch?v=uV7R7HcgjZ4) (Video)
