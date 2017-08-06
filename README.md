@@ -4,6 +4,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 ## Basics
 
+[Learn Git with tutorials and best practices](https://www.visualstudio.com/learn-git/)
+
 [Set up Git](https://help.github.com/articles/set-up-git)
 
 [Git in Plain English](https://red-badger.com/blog/2016/11/29/gitgithub-in-plain-english)
