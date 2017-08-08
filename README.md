@@ -102,6 +102,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
 
+[Git from the inside out](https://www.youtube.com/watch?v=fCtZWGhQBvo) (Video)
+
 [Git Source Code Review](http://fabiensanglard.net/git_code_review/diff.php)
 
 [Git Guys](https://github.com/tiimgreen/github-cheat-sheet#git)
@@ -111,6 +113,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 [Deep Dive into Git - Edward Thomson](https://www.youtube.com/watch?v=dBSHLb1B8sw) (Video)
 
 [Clara Bennett - Git: A Peek Under the Hood](https://www.youtube.com/watch?v=zZ2hG6PMjk8) (Video)
+
+[Git from the inside out]
 
 ## Cheat Sheets 
 
