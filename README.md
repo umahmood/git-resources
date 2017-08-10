@@ -130,6 +130,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [Git Cheat Sheets - Tower](https://www.git-tower.com/blog/git-cheat-sheet/)
 
+[Git Cheat Sheet: Useful Commands, Tips and Tricks](https://sentheon.com/blog/git-cheat-sheet.html)
+
 ## Books
 
 [Pro Git](http://git-scm.com/book) - Pro Git (Second Edition) is your fully-updated guide to Git and its usage in the modern world. 
