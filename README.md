@@ -114,8 +114,6 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [Clara Bennett - Git: A Peek Under the Hood](https://www.youtube.com/watch?v=zZ2hG6PMjk8) (Video)
 
-[Git from the inside out]
-
 ## Cheat Sheets 
 
 [Git Tips for Everyday Use](https://codeoldschool.blogspot.co.uk/2017/04/git-tips-for-everyday-use.html)
