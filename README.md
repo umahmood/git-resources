@@ -94,6 +94,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [Git Common-Flow](https://commonflow.org/spec/1.0.0-rc.3.html)
 
+[Garbage Collection in Git](http://pliutau.com/git-gc/)
+
 ## Hacking
 
 [Poking Git](https://www.youtube.com/watch?v=uV7R7HcgjZ4) (Video)
