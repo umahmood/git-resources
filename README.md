@@ -96,6 +96,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [Garbage Collection in Git](http://pliutau.com/git-gc/)
 
+[Using Advanced Rebase Features for a Clean Repository](https://mtyurt.net/2017/08/08/git-using-advanced-rebase-features-for-a-clean-repository/)
+
 ## Hacking
 
 [Poking Git](https://www.youtube.com/watch?v=uV7R7HcgjZ4) (Video)
