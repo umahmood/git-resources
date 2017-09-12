@@ -48,6 +48,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [Git Courses by Envato Tuts+](https://code.tutsplus.com/categories/git/courses)
 
+[Tech Guy DIY - Beginners Guide to Git](https://www.youtube.com/watch?v=G1MDQyneubY&feature=youtu.be)
+
 ## Tips and Tricks
 
 [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)
