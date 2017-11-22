@@ -124,6 +124,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 ## Cheat Sheets 
 
+[Git Flight Rules] (https://github.com/k88hudson/git-flight-rules/blob/master/README.md)
+
 [Git Tips for Everyday Use](https://codeoldschool.blogspot.co.uk/2017/04/git-tips-for-everyday-use.html)
 
 [Alex Kras - Git Cheat Sheet](https://gist.github.com/akras14/3d242d80af8388ebca60)
