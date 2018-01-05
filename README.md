@@ -52,6 +52,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [Tech Guy DIY - Beginners Guide to Git](https://www.youtube.com/watch?v=G1MDQyneubY&feature=youtu.be)
 
+[Real-world Git](https://trevordmiller.com/courses/real-world-git)
+
 ## Tips and Tricks
 
 [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)
