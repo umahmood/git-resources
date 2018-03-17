@@ -58,6 +58,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html)
 
+[Five Key Git Concepts Explained the Hard Way](https://zwischenzugs.com/2018/03/14/five-key-git-concepts-explained-the-hard-way/)
+
 ## Tips and Tricks
 
 [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)
