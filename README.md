@@ -110,6 +110,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [Using Advanced Rebase Features for a Clean Repository](https://mtyurt.net/2017/08/08/git-using-advanced-rebase-features-for-a-clean-repository/)
 
+[How to write a git commit message that won't disappoint your future self](http://www.topaz.io/git-commit-message/)
+
 ## Hacking
 
 [Poking Git](https://www.youtube.com/watch?v=uV7R7HcgjZ4) (Video)
