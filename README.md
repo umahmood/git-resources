@@ -112,6 +112,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [How to write a git commit message that won't disappoint your future self](http://www.topaz.io/git-commit-message/)
 
+[Git's Hidden Feature: Notes](https://brianschrader.com/archive/gits-hidden-feature-notes/)
+
 ## Hacking
 
 [Poking Git](https://www.youtube.com/watch?v=uV7R7HcgjZ4) (Video)
