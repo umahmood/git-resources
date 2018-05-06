@@ -114,6 +114,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [Git's Hidden Feature: Notes](https://brianschrader.com/archive/gits-hidden-feature-notes/)
 
+[How to git squash quickly without messing up](https://geekodour.github.io/post/2018/04/29/how-to-git-squash-quickly-without-messing-up/)
+
 ## Hacking
 
 [Poking Git](https://www.youtube.com/watch?v=uV7R7HcgjZ4) (Video)
