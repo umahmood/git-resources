@@ -116,6 +116,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [How to git squash quickly without messing up](https://geekodour.github.io/post/2018/04/29/how-to-git-squash-quickly-without-messing-up/)
 
+[Useful git commands for everyday use!](https://medium.com/flawless-app-stories/useful-git-commands-for-everyday-use-e1a4de64037d)
+
 ## Hacking
 
 [Poking Git](https://www.youtube.com/watch?v=uV7R7HcgjZ4) (Video)
