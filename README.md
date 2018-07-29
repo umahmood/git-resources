@@ -60,6 +60,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [Five Key Git Concepts Explained the Hard Way](https://zwischenzugs.com/2018/03/14/five-key-git-concepts-explained-the-hard-way/)
 
+[Learn Git in 20 Minutes](https://www.youtube.com/watch?v=IHaTbJPdB-s) (Video)
+
 ## Tips and Tricks
 
 [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)
