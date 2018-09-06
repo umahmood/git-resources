@@ -120,6 +120,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [Useful git commands for everyday use!](https://medium.com/flawless-app-stories/useful-git-commands-for-everyday-use-e1a4de64037d)
 
+[Using Aliases to Speed Up Your Git Workflow](https://dev.to/robertcoopercode/using-aliases-to-speed-up-your-git-workflow-2f5a)
+
 ## Hacking
 
 [Poking Git](https://www.youtube.com/watch?v=uV7R7HcgjZ4) (Video)
