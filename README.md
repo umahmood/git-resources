@@ -122,6 +122,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [Using Aliases to Speed Up Your Git Workflow](https://dev.to/robertcoopercode/using-aliases-to-speed-up-your-git-workflow-2f5a)
 
+[How to save a puppy by creating a clean Git repo](https://blog.intracto.com/how-to-save-a-puppy-by-creating-a-clean-git-repo)
+
 ## Hacking
 
 [Poking Git](https://www.youtube.com/watch?v=uV7R7HcgjZ4) (Video)
