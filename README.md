@@ -126,6 +126,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 ## Hacking
 
+[The Architecture of Open Source Applications: Git](http://aosabook.org/en/git.html)
+
 [Poking Git](https://www.youtube.com/watch?v=uV7R7HcgjZ4) (Video)
 
 [A Hacker's Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git/)
