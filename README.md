@@ -124,6 +124,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [How to save a puppy by creating a clean Git repo](https://blog.intracto.com/how-to-save-a-puppy-by-creating-a-clean-git-repo)
 
+[5 best practices for using Git](https://deepsource.io/blog/git-best-practices/)
+
 ## Hacking
 
 [The Architecture of Open Source Applications: Git](http://aosabook.org/en/git.html)
