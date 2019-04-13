@@ -172,6 +172,8 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 ## Books
 
+[Building Git](https://blog.jcoglan.com/2019/04/08/announcing-building-git/) - A deep dive into the internals of the Git version control system. By rebuilding it in a high-level programming language.
+
 [Pro Git](http://git-scm.com/book) - Pro Git (Second Edition) is your fully-updated guide to Git and its usage in the modern world. 
 
 [Peepcode Git Internals](https://github.com/pluralsight/git-internals-pdf/releases) - A PDF by Scott Chacon about how the Git source code control system stores files and revisions.
