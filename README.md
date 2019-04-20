@@ -126,6 +126,10 @@ Below are some links to resources on learning more about Git. A distributed vers
 
 [5 best practices for using Git](https://deepsource.io/blog/git-best-practices/)
 
+[Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide)
+
+[15 Git Commands You May Not Know](https://dev.to/zaiste/15-git-commands-you-may-not-know-4a8j?utm_source=Pointer&utm_campaign=c1e0ea16f2-EMAIL_CAMPAIGN_ISSUE137&utm_medium=email&utm_term=0_6ba2b83261-c1e0ea16f2-282100497)
+
 ## Hacking
 
 [The Architecture of Open Source Applications: Git](http://aosabook.org/en/git.html)
